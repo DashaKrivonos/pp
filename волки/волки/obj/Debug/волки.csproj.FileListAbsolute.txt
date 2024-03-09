@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\волки\волки\bin\Debug\волки.exe.config
+C:\Users\User\source\repos\волки\волки\bin\Debug\волки.exe
+C:\Users\User\source\repos\волки\волки\bin\Debug\волки.pdb
+C:\Users\User\source\repos\волки\волки\obj\Debug\волки.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\волки\волки\obj\Debug\волки.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\волки\волки\obj\Debug\волки.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\волки\волки\obj\Debug\волки.exe
+C:\Users\User\source\repos\волки\волки\obj\Debug\волки.pdb
